@@ -1,0 +1,15 @@
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\bin\Debug\net6.0\LINQPro.exe
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\bin\Debug\net6.0\LINQPro.deps.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\bin\Debug\net6.0\LINQPro.runtimeconfig.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\bin\Debug\net6.0\LINQPro.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\bin\Debug\net6.0\LINQPro.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.AssemblyInfoInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.AssemblyInfo.cs
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\refint\LINQPro.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\LINQPro.genruntimeconfig.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\LINKQ\LINQPro\obj\Debug\net6.0\ref\LINQPro.dll
